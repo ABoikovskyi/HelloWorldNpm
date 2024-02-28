@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ABoikovskyi/HelloWorldNpm/issues"
   },
-  "homepage": "https://github.com/ABoikovskyi/HelloWorldNpm#readme"
+  "homepage": "https://github.com/ABoikovskyi/HelloWorldNpm#readme",
+  "publishConfig": {
+    "@aboikovskyi:registry": "https://npm.pkg.github.com"
+  }
 }
